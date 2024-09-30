@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b768cdc2-c738-4457-b84d-ef48d6af67ae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YjEAuqNejahCaTCdn9OgGYxdlO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samir/OneDrive - Institute of Technology Tralee/Quiz&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samir\WebstormProjects\Quiz" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b768cdc2-c738-4457-b84d-ef48d6af67ae" name="Changes" comment="" />
+      <created>1701030448741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701030448741</updated>
+      <workItem from="1701030449958" duration="3384000" />
+      <workItem from="1701082184481" duration="10043000" />
+      <workItem from="1701161473522" duration="4239000" />
+      <workItem from="1701173764876" duration="3701000" />
+      <workItem from="1701213787400" duration="106000" />
+      <workItem from="1701244716664" duration="2028000" />
+      <workItem from="1701282942203" duration="3588000" />
+      <workItem from="1701351181767" duration="58173000" />
+      <workItem from="1701772882945" duration="7865000" />
+      <workItem from="1701811375425" duration="3678000" />
+      <workItem from="1701854822839" duration="564000" />
+      <workItem from="1701855965190" duration="2780000" />
+      <workItem from="1701994559244" duration="921000" />
+      <workItem from="1702054003451" duration="2427000" />
+      <workItem from="1702058901318" duration="23000" />
+      <workItem from="1702059351667" duration="34000" />
+      <workItem from="1702059393383" duration="29000" />
+      <workItem from="1702059423654" duration="33000" />
+      <workItem from="1702556871172" duration="12000" />
+      <workItem from="1702557688380" duration="13000" />
+      <workItem from="1702557702793" duration="70000" />
+      <workItem from="1706017811641" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

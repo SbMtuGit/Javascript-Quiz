@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <title>Quiz Page</title>
+</head>
+<body>
+
+    <span>Hover Here for help</span>
+        <div id="helpbox">
+            <div id="tooltip">
+                <p> Please select one of the four answers  to progress </p>
+            </div>
+        </div>
+
+<div id="quiz-container" >
+    <div id="questionCont"></div>
+    <form id="quizForm">
+        <ul id="answerlist">
+            <li>
+                <input type="radio" name="answer" id="answer1" value="0">
+                <label for="answer1" id="label1"></label>
+            </li>
+            <li>
+                <input type="radio" name="answer" id="answer2" value="1">
+                <label for="answer2" id="label2"></label>
+            </li>
+            <li>
+                <input type="radio" name="answer" id="answer3" value="2">
+                <label for="answer3" id="label3"></label>
+            </li>
+            <li>
+                <input type="radio" name="answer" id="answer4" value="3">
+                <label for="answer4" id="label4"></label>
+            </li>
+        </ul>
+        <input type="button" id="nextBtn" value="next">
+        <input type ="button" id ="FinButton" value = "finish quizz">
+        <div id="ProgressBar">
+
+        </div>
+    </form>
+</div>
+<script src="QuizScript.js"></script>
+<script src="Summary.js"></script>
+</body>
+</html>
